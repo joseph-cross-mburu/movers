@@ -3,8 +3,11 @@ import React from 'react'
 const AboutUs = () => {
   return (
     <div>
-      <h1>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae architecto temporibus obcaecati sint sapiente exercitationem nostrum veniam blanditiis numquam reprehenderit? Quod voluptatem dolor officiis excepturi sint, quam dignissimos deserunt deleniti?</h1>
+      <h1>who are we</h1>
+      <p>TAYLOR MOVERS IS A MULTINATIONAL CORPORATION HEADQUARTERED IN ATLANTA, GEORGIA U.S.A. WITH OUR EAST AFRICAN OFFICES IN NAIROBI, KENYA. WE ARE A TRANSPORTATION ENTERPRISE, SPECIALIZING IN LOGISTICS, CLEARING AND FORWARDING AND RELOCATION OF PERSONAL AND CORPORATE EFFECTS BOTH LOCALLY AND INTERNATIONALLY</p>
+      <h1>what do we do`</h1>
     </div>
+   
   )
 }
 
